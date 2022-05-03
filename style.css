@@ -18,7 +18,7 @@ a {
 }
 
 body {
-    background-image: url(./bg.jpeg);
+    background-image: linear-gradiente:(90deg, #556270, #ff6b6b
     background-repeat: no-repeat;
     background-position: center center fixed;
     background-size: cover
