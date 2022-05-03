@@ -19,7 +19,7 @@ a {
 
 body {
     heitght:100vh;
-    background-image: linear-gradient:(90deg, #556270, #ff6b6b);
+    background-image: linear-gradient:(90deg, #000000, #434343);
     background-repeat: no-repeat;
     background-position: center center fixed;
     background-size: cover
