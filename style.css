@@ -18,6 +18,7 @@ a {
 }
 
 body {
+    height:100vh;
     background: linear-gradient(90deg,#000000, #434343);
     background-repeat: no-repeat;
     background-position: center center fixed;
